@@ -1,4 +1,4 @@
-# python [![](https://badge.imagelayers.io/dreipol/python.svg)](https://imagelayers.io/?images=dreipol/python:latest 'Get your own badge on imagelayers.io')
+# python [![](https://badge.imagelayers.io/dreipol/python.svg)](https://imagelayers.io/?images=dreipol/python:latest)
 
 Base image for Dreipol Python deployments.
 
