@@ -1,4 +1,4 @@
-FROM python:3.5.2-beta
+FROM python:3.5.2
 MAINTAINER dreipol GmbH <dev@dreipol.ch>
 
 RUN mkdir -p /app
