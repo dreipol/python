@@ -4,8 +4,7 @@ Base image for Dreipol Python deployments.
 
 ## Stack
 
-- Python 3.4
-- Node 0.12
+- Python 3.5.2
 
 ## Build Image
 
