@@ -4,7 +4,7 @@ Base image for Dreipol Python deployments.
 
 ## Stack
 
-- Python 3.5.2
+- Python 3.6.5
 
 ## Build Image
 
